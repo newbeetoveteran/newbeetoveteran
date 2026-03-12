@@ -2,7 +2,7 @@
 
 <div id="header" align="center">
 
-<h1>Hey there, Rahul this side!<img src="./assets/giphy.gif" width="35px" alt="GIF"></h1>
+<h1>Hey there, RZ this side!<img src="./assets/giphy.gif" width="35px" alt="GIF"></h1>
 
 </div>
 

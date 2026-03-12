@@ -99,7 +99,7 @@
 
 <p align="center">
   <a href="https://buymeacoffee.com/newbeetoveteran" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="150"/>
+    <img src="https://storage.ko-fi.com/cdn/fullLogoKofi.png" alt="ko-Fi" width="150"/>
   </a>
 </p>
 

@@ -1,15 +1,15 @@
-<img width=120% src="https://capsule-render.vercel.app/api?type=waving&color=6499E9&height=90&section=header"/>
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+<img src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif" alt="c633c20ede82f0e0ced7d570dbe3a1f3" title="newbeetoveteran" width="100%" />
 
-<div id="header" align="center">
+<h1><div align="center">
 
-<h1>Hey there, RZ this side!<img src="./assets/giphy.gif" width="35px" alt="GIF"></h1>
+<h1>Hey there, Rahul Singh this side! <img src="./assets/giphy.gif" width="30px"/></h1>
 
-</div>
+<img src="https://readme-typing-svg.herokuapp.com?font=Shadows+Into+Light&size=26&pause=1000&color=4EF7E4&center=true&vCenter=true&width=600&lines=Python+Developer;Learning+DSA;Building+Cool+Projects"/>
 
-<br>
+</div></h1>
+<br/>
 
-<div>
-<img align="right" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Profile Image" width="340" />
 </div>
 
 ### 💫 About Me

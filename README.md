@@ -3,7 +3,7 @@
 
 <h1><div align="center">
 
-<h1>Hey there, Rahul Singh this side! <img src="./assets/giphy.gif" width="30px"/></h1>
+<h1>Hey there, Rahul here! <img src="./assets/giphy.gif" width="30px"/></h1>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Shadows+Into+Light&size=26&pause=1000&color=4EF7E4&center=true&vCenter=true&width=600&lines=Python+Developer;Learning+DSA;Building+Cool+Projects"/>
 
@@ -98,7 +98,7 @@
 </p>
 
 <p align="center">
-  <a href="https://buymeacoffee.com/newbeetoveteran" target="_blank">
+  <a href="https://ko-fi.com/newbeetoveteran" target="_blank">
     <img src="https://storage.ko-fi.com/cdn/fullLogoKofi.png" alt="ko-Fi" width="150"/>
   </a>
 </p>

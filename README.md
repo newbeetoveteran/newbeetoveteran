@@ -1,5 +1,5 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
-<img src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif" alt="c633c20ede82f0e0ced7d570dbe3a1f3" title="newbeetoveteran" width="100%" />
+<img src="https://private-user-images.githubusercontent.com/74038190/238355349-7d484dc9-68a9-4ee6-a767-aea59035c12d.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzM4NDU2NDEsIm5iZiI6MTc3Mzg0NTM0MSwicGF0aCI6Ii83NDAzODE5MC8yMzgzNTUzNDktN2Q0ODRkYzktNjhhOS00ZWU2LWE3NjctYWVhNTkwMzVjMTJkLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjAzMTglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwMzE4VDE0NDkwMVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTljNzVkMzYzZmQzYjcyMDJjMTI3NzdiOWM4MzQ0ZmM1YmI0NzJhOTZkOWY3OTk5MDFkM2YwYWJlNzFhZGUzZmEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.w24qG1_TA1MlCRl8s-oVdwtDRr3WzFJPDLbBubnNtJM" alt="c633c20ede82f0e0ced7d570dbe3a1f3" title="newbeetoveteran" width="100%" />
 
 <h1><div align="center">
 
@@ -25,8 +25,10 @@
 
 <div align="center">
 
-<a href="https://instagram.com/newbeetoveteran" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-
+<a href="https://instagram.com/newbeetoveteran" target="_blank">
+<p align="left">
+	<img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="60" /></a>
+</p>
 </div>
 
 <br>
@@ -36,10 +38,17 @@
 
 <div align="center">
 
-<a href="#" target="_blank">
-<img src="https://skillicons.dev/icons?i=python,vscode,github" />
-</a>
-
+<p align="cemter">
+  <a href="#" target="_blank">
+    <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="80"/>
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="80"/>
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="80"/>
+  </a>
+</p>
 </div>
 
 <br>

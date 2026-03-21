@@ -1,6 +1,6 @@
 <!-- HEADER (LEFT ALIGNED ONLY) -->
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
-<img src="https://user-images.githubusercontent.com/74038190/238355349-7d484dc9-68a9-4ee6-a767-aea59035c12d.gif" width="100%">
+<img src="summer%20banner.gif" width="100%">
 
 <div align="center">
 

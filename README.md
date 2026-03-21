@@ -49,19 +49,28 @@
 
 ## 📊 GitHub Stats:
 
-<div align="left">
+<div align="center">
 
-<img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=newbeetoveteran&theme=radical">
-<img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=newbeetoveteran&theme=radical">
-<img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=newbeetoveteran&theme=radical">
-<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=newbeetoveteran&theme=radical">
-<img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=newbeetoveteran&theme=radical&utcOffset=8">
-<img height="166em" src="https://github-readme-stats.vercel.app/api?username=newbeetoveteran&theme=radical">
-<img height="166em" src="https://github-readme-streak-stats.herokuapp.com/?user=newbeetoveteran&theme=radical">
+<!-- TOP: MAIN STATS -->
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=newbeetoveteran&show_icons=true&theme=transparent&hide_border=true&title_color=fc00ff&icon_color=00dbde&text_color=ffffff&bg_color=00000000">
+
+<img height="170em" src="https://streak-stats.demolab.com?user=newbeetoveteran&theme=transparent&hide_border=true&ring=fc00ff&fire=fc00ff&currStreakLabel=00dbde&background=00000000">
+
+<!-- LANGUAGES (NOW BELOW + MATCHED STYLE) -->
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=newbeetoveteran&layout=donut&theme=transparent&hide_border=true&title_color=00dbde&text_color=ffffff">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=newbeetoveteran&layout=donut&theme=transparent&hide_border=true&title_color=fc00ff&text_color=ffffff&langs_count=8">
+<!-- GRAPH -->
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=newbeetoveteran&bg_color=00000000&color=00dbde&line=fc00ff&point=ffffff&area=true&hide_border=true">
+
+<!-- TROPHIES -->
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=newbeetoveteran&theme=algolia&no-frame=true&no-bg=true&margin-w=10&row=1">
+
+<!-- SNAKE -->
+<img width="100%" src="https://raw.githubusercontent.com/newbeetoveteran/newbeetoveteran/output/snake.svg" />
 
 </div>
-
-<br>
 
 # 🎖 Badges
 

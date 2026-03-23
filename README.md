@@ -35,11 +35,11 @@
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=newbeetoveteran&show_icons=true&theme=transparent&hide_border=true&title_color=7F5AF0&icon_color=2CB67D&text_color=EAEAEA"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=newbeetoveteran&show_icons=true&theme=transparent&hide_border=true&title_color=7F5AF0&icon_color=2CB67D&text_color=EAEAEA&cache_seconds=0"/>
 
-<img height="170em" src="https://streak-stats.demolab.com?user=newbeetoveteran&theme=transparent&hide_border=true&ring=7F5AF0&fire=2CB67D&currStreakLabel=2CB67D&background=00000000&cache_seconds=1800"/>
+<img height="170em" src="https://streak-stats.demolab.com?user=newbeetoveteran&theme=transparent&hide_border=true&ring=7F5AF0&fire=2CB67D&currStreakLabel=2CB67D&background=00000000&cache_seconds=0"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=newbeetoveteran&layout=compact&theme=transparent&hide_border=true&title_color=2CB67D&text_color=EAEAEA"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=newbeetoveteran&layout=compact&theme=transparent&hide_border=true&title_color=2CB67D&text_color=EAEAEA&cache_seconds=0"/>
 
 </div>
 
@@ -49,13 +49,13 @@
 
 <div align="center">
 
-<img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=newbeetoveteran&theme=tokyonight"/>
+<img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=newbeetoveteran&theme=tokyonight&cache_seconds=0"/>
 
 <br>
 
-<img width="30%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=newbeetoveteran&theme=tokyonight"/>
-<img width="30%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=newbeetoveteran&theme=tokyonight"/>
-<img width="30%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=newbeetoveteran&theme=tokyonight"/>
+<img width="30%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=newbeetoveteran&theme=tokyonight&cache_seconds=0"/>
+<img width="30%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=newbeetoveteran&theme=tokyonight&cache_seconds=0"/>
+<img width="30%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=newbeetoveteran&theme=tokyonight&cache_seconds=0"/>
 
 </div>
 
@@ -64,6 +64,7 @@
 ## 📉 Activity Graph
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=newbeetoveteran&bg_color=00000000&color=2CB67D&line=7F5AF0&point=EAEAEA&area=true&hide_border=true"/>
+
 ## 🏆 Achievements
 
 <img width="100%" src="https://github-profile-trophy.vercel.app/?username=newbeetoveteran&theme=algolia&no-frame=true&no-bg=true&margin-w=10&row=1"/>

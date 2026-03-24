@@ -7,7 +7,7 @@
 # 👋 Hey there, Rahul here!
 
 <img 
-  src="https://readme-typing-svg.herokuapp.com?font=Shadows+Into+Light&size=26&pause=1000&color=4EF7E4&center=true&vCenter=true&width=500&lines=Python+Developer;Learning+DSA;Building+Cool+Projects" 
+  src="https://readme-typing-svg.herokuapp.com?font=Shadows+Into+Light&size=26&pause=1000&color=8B5CF6&center=true&vCenter=true&width=500&lines=Python+Developer;Learning+DSA;Building+Cool+Projects" 
 />
 
 </div>
@@ -35,11 +35,11 @@
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=newbeetoveteran&show_icons=true&theme=transparent&hide_border=true&title_color=7F5AF0&icon_color=2CB67D&text_color=EAEAEA&cache_seconds=0"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=newbeetoveteran&show_icons=true&theme=transparent&hide_border=true&title_color=8B5CF6&icon_color=8B5CF6&text_color=FFFFFF"/>
 
-<img height="170em" src="https://streak-stats.demolab.com?user=newbeetoveteran&theme=transparent&hide_border=true&ring=7F5AF0&fire=2CB67D&currStreakLabel=2CB67D&background=00000000&cache_seconds=0"/>
+<img height="170em" src="https://streak-stats.demolab.com?user=newbeetoveteran&theme=transparent&hide_border=true&ring=8B5CF6&fire=FFFFFF&currStreakLabel=FFFFFF&background=00000000"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=newbeetoveteran&layout=compact&theme=transparent&hide_border=true&title_color=2CB67D&text_color=EAEAEA&cache_seconds=0"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=newbeetoveteran&layout=compact&theme=transparent&hide_border=true&title_color=8B5CF6&text_color=FFFFFF"/>
 
 </div>
 
@@ -49,13 +49,13 @@
 
 <div align="center">
 
-<img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=newbeetoveteran&theme=tokyonight&cache_seconds=0"/>
+<img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=newbeetoveteran&theme=github_dark"/>
 
 <br>
 
-<img width="30%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=newbeetoveteran&theme=tokyonight&cache_seconds=0"/>
-<img width="30%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=newbeetoveteran&theme=tokyonight&cache_seconds=0"/>
-<img width="30%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=newbeetoveteran&theme=tokyonight&cache_seconds=0"/>
+<img width="30%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=newbeetoveteran&theme=github_dark"/>
+<img width="30%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=newbeetoveteran&theme=github_dark"/>
+<img width="30%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=newbeetoveteran&theme=github_dark"/>
 
 </div>
 
@@ -63,11 +63,13 @@
 
 ## 📉 Activity Graph
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=newbeetoveteran&bg_color=00000000&color=2CB67D&line=7F5AF0&point=EAEAEA&area=true&hide_border=true"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=newbeetoveteran&bg_color=00000000&color=8B5CF6&line=8B5CF6&point=FFFFFF&area=true&hide_border=true"/>
+
+---
 
 ## 🏆 Achievements
 
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=newbeetoveteran&theme=algolia&no-frame=true&no-bg=true&margin-w=10&row=1"/>
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=newbeetoveteran&theme=onestar&no-frame=true&no-bg=true&margin-w=10&row=1"/>
 
 ---
 
@@ -104,9 +106,9 @@
 ## 👀 Visitors
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=newbeetoveteran&label=Profile%20views&color=00dbde&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=newbeetoveteran&label=Profile%20views&color=8B5CF6&style=flat" />
 </p>
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:fc00ff,100:00dbde&height=120&section=footer&reversal=true&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:FFFFFF&height=120&section=footer&reversal=true&animation=fadeIn" width="100%"/>

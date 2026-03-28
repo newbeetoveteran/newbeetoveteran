@@ -16,11 +16,10 @@
 
 ## 🧠 About Me
 
-- 🌱 Currently learning Python  
-- 🧠 Practicing Data Structures  
-- 💻 Interested in Software Development  
-- 🎯 Goal: Become a Professional Developer  
-
+- Building a solid foundation in Python  
+- Practicing Data Structures to improve problem-solving  
+- Focused on writing clean, maintainable code  
+- Prioritizing depth of knowledge over quick outcomes  
 ---
 
 ## ⚡ Tech Stack

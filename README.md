@@ -31,46 +31,37 @@
 
 ---
 
-## 📊 Core Stats
-
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=newbeetoveteran&show_icons=true&theme=transparent&hide_border=true&title_color=8B5CF6&icon_color=8B5CF6&text_color=FFFFFF"/>
-
-<img height="170em" src="https://streak-stats.demolab.com?user=newbeetoveteran&theme=transparent&hide_border=true&ring=8B5CF6&fire=FFFFFF&currStreakLabel=FFFFFF&background=00000000&cache_seconds=1800&v=2"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=newbeetoveteran&layout=compact&theme=transparent&hide_border=true&title_color=8B5CF6&text_color=FFFFFF"/>
-
 </div>
 
+<h3 align="center">📊 Stats of Obsession</h3>
 
-## 📈 Deep Stats
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=newbeetoveteran&border=true&border_color=00ACC1&theme=aura&disable_animations=true" alt="streak stats" />
+</p>
+
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=newbeetoveteran&theme=aura" /><br>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=newbeetoveteran&theme=aura" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=newbeetoveteran&theme=aura" /><br>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=newbeetoveteran&theme=aura" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=newbeetoveteran&theme=aura&utcOffset=8" />
+</p>
+
+<hr>
 
 <div align="center">
-
-<img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=newbeetoveteran&theme=github_dark"/>
-
-<br>
-
-<img width="30%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=newbeetoveteran&theme=github_dark"/>
-<img width="30%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=newbeetoveteran&theme=github_dark"/>
-<img width="30%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=newbeetoveteran&theme=github_dark"/>
-
+  <img src="assets/githubgif.gif" width="200" />
 </div>
-
----
 
 ## 📉 Activity Graph
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=newbeetoveteran&bg_color=00000000&color=8B5CF6&line=8B5CF6&point=FFFFFF&area=true&hide_border=true"/>
 
----
-
 ## 🏆 Achievements
 
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=newbeetoveteran&theme=onestar&no-frame=true&no-bg=true&margin-w=10&row=1"/>
-
----
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=newbeetoveteran&theme=onestar&no-frame=true&no-bg=true&margin-w=15&column=-1" />
+</p>
 
 ## 🐍 Contribution Snake
 

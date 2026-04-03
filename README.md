@@ -37,13 +37,12 @@
 
 <img height="170em" src="https://github-readme-stats.vercel.app/api?username=newbeetoveteran&show_icons=true&theme=transparent&hide_border=true&title_color=8B5CF6&icon_color=8B5CF6&text_color=FFFFFF"/>
 
-<img height="170em" src="https://streak-stats.demolab.com?user=newbeetoveteran&theme=transparent&hide_border=true&ring=8B5CF6&fire=FFFFFF&currStreakLabel=FFFFFF&background=00000000&cache_seconds=1&rand=999999999"/>
+<img height="170em" src="https://streak-stats.demolab.com?user=newbeetoveteran&theme=transparent&hide_border=true&ring=8B5CF6&fire=FFFFFF&currStreakLabel=FFFFFF&background=00000000&cache_seconds=1800&v=2"/>
 
 <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=newbeetoveteran&layout=compact&theme=transparent&hide_border=true&title_color=8B5CF6&text_color=FFFFFF"/>
 
 </div>
 
----
 
 ## 📈 Deep Stats
 

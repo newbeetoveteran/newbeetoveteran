@@ -31,9 +31,9 @@
 
 ---
 
-</div>
+## ⚡ Stats Of Obsession
 
-<h3 align="center">📊 Stats of Obsession</h3>
+---
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=newbeetoveteran&border=true&border_color=00ACC1&theme=aura&disable_animations=true" alt="streak stats" />
@@ -54,7 +54,6 @@
 </div>
 
 ## 📉 Activity Graph
-
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=newbeetoveteran&bg_color=00000000&color=8B5CF6&line=8B5CF6&point=FFFFFF&area=true&hide_border=true"/>
 
 ## 🏆 Achievements

@@ -36,15 +36,15 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=newbeetoveteran&border=true&border_color=00ACC1&theme=aura&disable_animations=true" alt="streak stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=newbeetoveteran&border=true&border_color=00ACC1&theme=aura&disable_animations=true&v=1" alt="streak stats" />
 </p>
 
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=newbeetoveteran&theme=aura" /><br>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=newbeetoveteran&theme=aura" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=newbeetoveteran&theme=aura" /><br>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=newbeetoveteran&theme=aura" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=newbeetoveteran&theme=aura&utcOffset=8" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=newbeetoveteran&theme=aura&v=1" /><br>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=newbeetoveteran&theme=aura&v=1" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=newbeetoveteran&theme=aura&v=1" /><br>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=newbeetoveteran&theme=aura&v=1" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=newbeetoveteran&theme=aura&utcOffset=8&v=1" />
 </p>
 
 <hr>

@@ -4,7 +4,7 @@
 
 <div align="center">
 
-# 👋 Hey there, Rahul here!
+# 👋 Hey there, RZ here!
 
 <img 
   src="https://readme-typing-svg.herokuapp.com?font=Shadows+Into+Light&size=26&pause=1000&color=8B5CF6&center=true&vCenter=true&width=500&lines=Python+Developer;Learning+DSA;Building+Cool+Projects" 

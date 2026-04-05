@@ -71,7 +71,7 @@
 ## 🌐 Connect With Me
 
 <div align="center">
-  <a href="https://instagram.com/newbeetoveteran">
+  <a href="https://instagram.com/0xdevx">
     <img src="https://skillicons.dev/icons?i=instagram" height="50"/>
   </a>
 </div>
@@ -85,7 +85,7 @@
 </p>
 
 <p align="center">
-  <a href="https://ko-fi.com/newbeetoveteran">
+  <a href="https://ko-fi.com/0xdevx">
     <img src="https://storage.ko-fi.com/cdn/fullLogoKofi.png" width="150"/>
   </a>
 </p>

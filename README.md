@@ -36,15 +36,15 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=newbeetoveteran&border=true&border_color=00ACC1&theme=aura&disable_animations=true&v=1" alt="streak stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=0xdevx-r&border=true&border_color=00ACC1&theme=aura&disable_animations=true&v=1" alt="streak stats" />
 </p>
 
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=newbeetoveteran&theme=aura&v=1" /><br>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=newbeetoveteran&theme=aura&v=1" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=newbeetoveteran&theme=aura&v=1" /><br>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=newbeetoveteran&theme=aura&v=1" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=newbeetoveteran&theme=aura&utcOffset=8&v=1" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=0xdevx-r&theme=aura&v=1" /><br>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=0xdevx-r&theme=aura&v=1" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=0xdevx-r&theme=aura&v=1" /><br>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=0xdevx-r&theme=aura&v=1" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=0xdevx-rtheme=aura&utcOffset=8&v=1" />
 </p>
 
 <hr>
@@ -54,17 +54,17 @@
 </div>
 
 ## 📉 Activity Graph
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=newbeetoveteran&bg_color=00000000&color=8B5CF6&line=8B5CF6&point=FFFFFF&area=true&hide_border=true"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=0xdevx-r&bg_color=00000000&color=8B5CF6&line=8B5CF6&point=FFFFFF&area=true&hide_border=true"/>
 
 ## 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=newbeetoveteran&theme=onestar&no-frame=true&no-bg=true&margin-w=15&column=-1" />
+  <img src="https://github-profile-trophy.vercel.app/?username=0xdevx-r&theme=onestar&no-frame=true&no-bg=true&margin-w=15&column=-1" />
 </p>
 
 ## 🐍 Contribution Snake
 
-<img width="100%" src="https://raw.githubusercontent.com/newbeetoveteran/newbeetoveteran/output/snake.svg" />
+<img width="100%" src="https://raw.githubusercontent.com/newbeetoveteran/0xdevx-r/output/snake.svg" />
 
 ---
 

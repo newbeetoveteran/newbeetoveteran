@@ -64,7 +64,7 @@
 
 ## 🐍 Contribution Snake
 
-<img width="100%" src="https://raw.githubusercontent.com/newbeetoveteran/0xdevx-r/output/snake.svg" />
+<img width="100%" src="https://raw.githubusercontent.com/newbeetoveteran/newbeetoveteran/output/snake.svg" />
 
 ---
 
